@@ -1,4 +1,16 @@
+<template>
+  <FirstComp />
+</template>
 
+<script>
+import FirstComp from './components/FirstComp';
+
+export default {
+  components: {
+    FirstComp,
+  },
+};
+</script>
 
 <style>
 #app {
