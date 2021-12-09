@@ -1,13 +1,18 @@
 <template>
-  <FirstComp />
+  <div>
+    <FirstComp />
+    <SimpleButton />
+  </div>
 </template>
 
 <script>
 import FirstComp from './components/FirstComp';
+import SimpleButton from './components/SimpleButton';
 
 export default {
   components: {
     FirstComp,
+    SimpleButton,
   },
 };
 </script>
