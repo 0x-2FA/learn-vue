@@ -1,12 +1,16 @@
 <template>
   <div>
-      <h1>First Component Yay!</h1>
+      <h1>{{ title.toLowerCase() }}</h1>
   </div>
 </template>
 
 <script>
 export default {
-
+  data() {
+    return {
+      title: 'First Component Yay!!!',
+    };
+  },
 };
 </script>
 
