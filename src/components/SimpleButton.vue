@@ -12,7 +12,6 @@ export default {
 
 <style>
 .btn{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.2em;
     padding: 1.2em;
     background-color: rgb(0, 219, 110);

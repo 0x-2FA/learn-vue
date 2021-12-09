@@ -16,7 +16,6 @@ export default {
 
 <style>
 .first-comp h1{
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
   color: rgb(0, 126, 59);
   margin-top: 3em;

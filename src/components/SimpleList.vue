@@ -26,7 +26,6 @@ export default {
 }
 
 .list-items{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.2em;
     padding-left: 2em;
 }
